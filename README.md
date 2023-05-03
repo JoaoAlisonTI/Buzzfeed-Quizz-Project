@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
+## Screenshots
+<p align="center">
+  <img alt="Tela 1" src="./src/assets/imgs/IMG_20230503_194052.jpg" width="100%">
+</p>
+<p align="center">
+  <img alt="Tela 1" src="./src/assets/imgs/IMG_20230503_194011.jpg" width="100%">
+</p>
+<p align="center">
+  <img alt="Tela 1" src="./src/assets/imgs/IMG_20230503_194154.jpg" width="100%">
+</p>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
